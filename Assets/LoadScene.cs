@@ -7,5 +7,10 @@ public class LoadScene : MonoBehaviour
     {
         SceneManager.LoadScene(name);
     }
+    public void Cerrar()
+    {
+        Debug.Log("Se cerro el juego");
+        Application.Quit();
 
+    }
 }

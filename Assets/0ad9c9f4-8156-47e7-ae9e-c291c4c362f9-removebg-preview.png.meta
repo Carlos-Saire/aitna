@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: bfadb1df91e53154dbae05b5181ed22d
+guid: 3be900636fac45749a1abb37f1814f40
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6791817249930038189
-    second: time_0
-  - first:
-      213: 6588065106299835985
-    second: time_1
+      213: -3202530610035724523
+    second: 0ad9c9f4-8156-47e7-ae9e-c291c4c362f9-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -125,17 +122,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: time_0
+      name: 0ad9c9f4-8156-47e7-ae9e-c291c4c362f9-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 54
-        width: 74
-        height: 122
+        x: 0
+        y: 0
+        width: 101
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,30 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dab4371edc1614e50800000000000000
-      internalID: 6791817249930038189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: time_1
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 53
-        width: 96
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 156d5222f428d6b50800000000000000
-      internalID: 6588065106299835985
+      spriteID: 51f618eb0635e83d0800000000000000
+      internalID: -3202530610035724523
       vertices: []
       indices: 
       edges: []
@@ -176,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -185,9 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      time_0: 6791817249930038189
-      time_1: 6588065106299835985
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
