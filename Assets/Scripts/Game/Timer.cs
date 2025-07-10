@@ -1,15 +1,16 @@
-using UnityEngine;
 using TMPro;
 using Unity.Mathematics;
+using UnityEngine;
+
 public class Timer : MonoBehaviour
 {
     private TMP_Text text;
     [SerializeField] private float timeMax;
-    private void Awake()
+    void Awake()
     {
         text = GetComponent<TMP_Text>();
     }
-    private void Update()
+    void Update()
     {
         timeMax -= Time.deltaTime;
         int value = (int)timeMax;
